@@ -135,7 +135,6 @@
             this.gifBox1.Size = new System.Drawing.Size(528, 432);
             this.gifBox1.TabIndex = 28;
             this.gifBox1.Text = "gifBox1";
-            this.gifBox1.Visible = false;
             // 
             // log
             // 
