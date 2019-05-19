@@ -22,4 +22,37 @@ author：Fanx繁星
   main窗口：打开相应的mid子窗口，子窗口都还没弄，要不能叫大概的框架，而且功能有点少需要完善<br>
   messbox窗口：设置窗口，原本想弄成弹窗来着，然后没换名字<br>
   
-
+  # 子窗口命名
+  楼层管理：floor<br>
+  房间管理：room<br>
+  入住办理：checkin<br>
+  退宿办理：checkout<br>
+  调宿办理：checkup<br>
+  晚归记录：backlate<br>
+  数据分析：datafx<br>
+  来访登记：welcomes<br>
+  来访记录：welog<br>
+  学生列表：stulist<br>
+  班级信息：classi<br>
+  录入信息：enteri<br>
+  添加宿管：addsuguan<br>
+  宿管列表：suguanlist<br>
+  临时权限：tempower<br>
+  
+  
+  
+  
+  
+  
+  
+                  
+                   
+              
+               
+                
+             
+               
+              
+                   
+           
+             
