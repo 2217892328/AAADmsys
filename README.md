@@ -1,5 +1,5 @@
 # AAADmsys
-S1项目的寝室管理系统大概框架 第三组项目源代码<br>
+S1项目的寝室管理系统大概框架<br>
 author：Fanx繁星<br>
 weburl:www.fanxs.cn （小服务器经不起折腾）<br>
 # 说明
